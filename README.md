@@ -26,6 +26,16 @@ $ sudo apt-get update
 $ sudo apt-get install jenkins
 ```
 
+#### Generate an SSH key
+```
+$ vagrant ssh
+$ ssh-keygen -t rsa
+```
+
+#### Configure Jenkins
+Visit http://ciserver.local:8080\
+Install suggested plugins
+
 ## Sponsors
 [True Apex](https://www.trueapex.com) - Web Design and Development
 
