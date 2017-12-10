@@ -2,8 +2,8 @@
 A Continuous Integration and Continuous Delivery Server using Jenkins
 
 ## Technology Stack
-Ubuntu Server (Xenial)\
-Ansible\
+Ubuntu Server (Xenial) \
+Ansible \
 Jenkins
 
 ## Installation
@@ -33,8 +33,12 @@ $ ssh-keygen -t rsa
 ```
 
 #### Configure Jenkins
-Visit http://ciserver.local:8080\
+Visit http://ciserver.local:8080 \
 Install suggested plugins
+
+## Reference
+Installing Jenkins on Ubuntu (https://jenkins.io/doc/book/installing/#debian-ubuntu) \
+Setup Jenkins (https://jenkins.io/doc/book/installing/#setupwizard)
 
 ## Sponsors
 [True Apex](https://www.trueapex.com) - Web Design and Development
